@@ -1,5 +1,4 @@
 import argparse
-import time
 import os
 import pickle
 from selenium import webdriver
