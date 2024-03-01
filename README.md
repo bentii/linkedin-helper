@@ -6,6 +6,8 @@ Easy to use
 0 - Create a file .env and write LINKEDIN_USERNAME = your email no " needed
                                 LINKEDIN_PASSWORD = your password no " needed
 
+0.1 - Run: pip install -r requirements.txt
+
 1 - Setup selenium
   It's already setup for chrome in linux, but you can easily setup
   following here: https://selenium-python.readthedocs.io/installation.html
